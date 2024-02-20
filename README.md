@@ -1,5 +1,7 @@
 # Brain Tumor Detection Model with CNN using TensorFlow
 
+![Brain MRI](hero.jpeg)
+
 This repository contains a deep learning project for detecting brain tumors using Convolutional Neural Networks (CNNs) implemented in TensorFlow. The model is trained on a dataset of brain MRI images and can classify whether an input MRI scan contains a tumor or not.
 
 ## Dataset
